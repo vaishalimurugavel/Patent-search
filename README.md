@@ -22,6 +22,17 @@ chosen so the same representation could later extend to other input types
 (e.g. matching a whole patent or a specific claim against the corpus) with
 minimal rework.
 
+## Demo Video
+
+<video src="video_tutorial/VaishaliMurugavel_ThinkstructDemo.mp4" controls width="700">
+  Your browser does not support embedded video. Watch it directly here:
+  <a href="video_tutorial/VaishaliMurugavel_ThinkstructDemo.mp4">VaishaliMurugavel_ThinkstructDemo.mp4</a>
+</video>
+
+*(GitHub's video embed depends on file size/format -- if it doesn't render
+inline above, click directly:
+[video_tutorial/VaishaliMurugavel_ThinkstructDemo.mp4](video_tutorial/VaishaliMurugavel_ThinkstructDemo.mp4))*
+
 ## Project Structure
 
 ```
